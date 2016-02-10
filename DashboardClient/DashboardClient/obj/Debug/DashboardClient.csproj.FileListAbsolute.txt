@@ -1,0 +1,2 @@
+C:\Users\Chris\Documents\Projects\DashboardClient\DashboardClient\bin\Debug\DashboardClient.exe.config
+C:\Users\Chris\Documents\Twitch-Dashboard-Client.git\DashboardClient\DashboardClient\bin\Debug\DashboardClient.exe.config
