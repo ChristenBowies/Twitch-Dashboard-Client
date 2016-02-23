@@ -12,5 +12,6 @@ namespace DashboardClient
         {
             return Guid.NewGuid().ToString().Substring(0, 150);
         }
+
     }
 }
